@@ -1,8 +1,15 @@
-.Cabecalho{
-    background-color: #72e2e6;
+.cabeçalho {
+    background-color: #07C4D9;
+    }
+
+.cabeçalho-título {
+    color: #F26457;
+}
+
+.cabeçalho-lista {
     color: white;
 }
 
-body{
-    background-color: beige;
+.cabeçalho-imagem{
+    width: 10%;
 }
