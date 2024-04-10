@@ -6,7 +6,7 @@
     color: #F26457;
 }
 ul {
-    display: inline-block;
+    
     display: flex;
 }
 .cabeçalho-lista {
