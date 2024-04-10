@@ -5,7 +5,10 @@
 .cabeçalho-título {
     color: #F26457;
 }
-
+li{
+    display: inline-block;
+    display: flex;
+}
 .cabeçalho-lista {
     color: white;
 }
