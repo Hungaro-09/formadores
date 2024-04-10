@@ -7,7 +7,6 @@
 }
 li{
     display: inline-block;
-    display: flex;
 }
 .cabeçalho-lista {
     color: white;
